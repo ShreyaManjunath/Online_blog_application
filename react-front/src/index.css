@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Merriweather:wght@300&display=swap');
+.body1{
+    background-image: linear-gradient(to right bottom,#00C9FF,#92FE9D);
+    background-attachment: fixed;
+    color: #354538;
+}
+/* #00F260,#0575E6 */
+.profile{
+    background-image: linear-gradient(to right bottom,#A1FFCE,#FAFFD1);
+    background-attachment: fixed;
+    color: #354538;
+}
+
+.heading{
+    font-family: 'Kaushan Script';
+    margin: 20px 0;
+    font-size: 2.2rem;
+    color:#354358;
+}
+.subheading{
+    font-family: 'Kaushan Script';
+    margin: 20px 0;
+    font-size: 1.6rem;
+    color:#354358;
+}
+.subtitle{
+    font-family: 'Kaushan Script';
+    margin: 20px 0;
+    font-size: 1.6rem;
+    color:#13999b;
+}
+.details{
+    font-family: 'Kaushan Script';
+    margin: 20px 0;
+    font-size: 1.5rem;
+    color: tomato;
+}
+
+/* .sidebar_avatar {
+    height: 110px;
+    width: 110px;
+    object-fit: contain;
+    border-radius: 100px;
+    border:2px black;
+} */
+
+.sign{
+    background-image: linear-gradient(to right bottom,#A1FFCE,#FAFFD1);
+    background-attachment: fixed;
+    color: #354538;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 100%;
+}
+.navbar_active {
+    /* background-image: linear-gradient(to right bottom,#A1FFCE,#FAFFD1); */
+    font-size: 3rem;
+    font-weight: 700;
+    color: #354358;
+    text-align: center;
+    /* border-top: 3px solid #00F260 ;*/
+    border-bottom: 3px solid #057f81; 
+}
+.recent{
+    font-size: 2rem;
+    font-weight: 700;
+    color: #ffff;
+    /* text-align: center; */
+    /* border-top: 3px solid #00F260 ;*/
+    /* border-bottom: 3px solid #00F260;  */
+
+}
+
+.navbar_item {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #354358;
+    text-align: center;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+.start{
+    /* background-image: linear-gradient(to right bottom,#FFEFBA,#FFFFFF); */
+    background-color:rgb(245, 244, 244) ;
+    padding: 50px;
+}
